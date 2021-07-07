@@ -13,5 +13,5 @@
 📬 Get in Touch
 
 - <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="18"> GitHub: [GitHub](https://www.github.com/harsh-kashyap0201)
-- <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="22"> LinkedIn: [LinkedIn](www.linkedin.com/in/harsh-kashyap-b8b584160)
+- <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="22"> LinkedIn: [LinkedIn](https://www.linkedin.com/in/harsh-kashyap-b8b584160)
 - <img src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" width="22"> E-mail: harshkashyap2012002@gmail.com || harsh.kashyap2020@vitstudent.ac.in
