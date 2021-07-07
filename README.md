@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/harsh-kashyap0201/harsh-kashyap0201/blob/pictures/github.gif" alt="GitHub Logo" width="200" height="200" />
+<img src="https://github.com/harsh-kashyap0201/harsh-kashyap0201/blob/main/github.gif" alt="GitHub Logo" width="200" height="200" />
 </div>
 
 <div>
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/harsh-kashyap0201/harsh-kashyap0201/blob/pictures/Vanilla-1s-280px.gif" width="300px">
+<img src="https://github.com/harsh-kashyap0201/harsh-kashyap0201/blob/main/Vanilla-1s-280px.gif" width="300px">
 </div>
 
 📬 Get in Touch
