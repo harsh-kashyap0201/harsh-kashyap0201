@@ -10,7 +10,7 @@
 <div align="center">
 <img src="https://github.com/harsh-kashyap0201/harsh-kashyap0201/blob/main/Vanilla-1s-280px.gif" width="300px">
 </div>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 📬 Get in Touch
 
