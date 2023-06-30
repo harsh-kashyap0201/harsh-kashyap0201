@@ -1,5 +1,5 @@
 # Hi, I'm harsh! 👋<img src="https://komarev.com/ghpvc/?username=harsh-0201kashyap&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="harsh-kashyap0201" align="right"> 
-<a href="https://app.daily.dev/harshkashyap020"><img src="https://raw.githubusercontent.com/harsh-kashyap0201/harsh-kashyap0201/3431df24b3fd116589cf73038c859fca138f8aa7/devcard.svg" width="350" alt="Chris Bongers's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/harshkashyap020"><img src="https://github.com/harsh-kashyap0201/harsh-kashyap0201/blob/main/devcard.svg" width="350" alt="Harsh's Dev Card" align="right"/></a>
 
 ## 🚀 About Me
 I'm a Full stack developer and a Blockchain Enthusiast based in India. Currently in my 3rd year at Vellore Institute of Technology.
